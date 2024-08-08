@@ -15,7 +15,7 @@ const Cards = styled.div`
   background-color: ${background_color};
   h2 {
     font-family: Cairo;
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: 700;
     line-height: 67.2px;
   }

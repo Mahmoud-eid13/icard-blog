@@ -26,19 +26,19 @@ const Details = styled.div`
   align-items: flex-end;
   h1 {
     font-family: Cairo;
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: 700;
     line-height: 67.2px;
   }
   span {
     font-family: Cairo;
-    font-size: 24px;
+    font-size: 1.5;
     font-weight: 600;
     line-height: 44.98px;
   }
   p {
     font-family: Cairo;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 400;
     line-height: 37.48px;
   }

@@ -13,7 +13,7 @@ const Section = styled.div`
   }
   h3 {
     font-family: Cairo;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 700;
     line-height: 40.32px;
     width: 360px;
@@ -24,7 +24,7 @@ const Section = styled.div`
   }
   p {
     font-family: Cairo;
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 400;
     line-height: 26.88px;
     text-wrap: wrap;
@@ -39,7 +39,7 @@ const Date = styled.div`
   margin-top: 17px;
   span {
     font-family: Cairo;
-    font-size: 15px;
+    font-size: 0.938rem;
     font-weight: 400;
     line-height: 25.2px;
     text-align: left;
@@ -47,7 +47,7 @@ const Date = styled.div`
   }
   button {
     font-family: Cairo;
-    font-size: 15px;
+    font-size: 0.938rem;
     font-weight: 700;
     line-height: 25.2px;
     background: none;

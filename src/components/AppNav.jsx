@@ -18,7 +18,7 @@ const NavLinksList = styled.ul`
   right: 100px;
   list-style-type: none;
   width: 500px;
-  font-size: 24px;
+  font-size: 1.5rem;
   font-weight: bold;
   padding: 0;
   overflow: hidden;

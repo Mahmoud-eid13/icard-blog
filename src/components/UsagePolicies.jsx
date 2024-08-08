@@ -25,14 +25,14 @@ const Usage = styled.div`
   margin: 10px auto;
   h2 {
     font-family: Cairo;
-    font-size: 32px;
+    font-size: 2rem;
     font-weight: 700;
     line-height: 53.76px;
     text-align: right;
   }
   p {
     font-family: Cairo;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     line-height: 40.32px;
     text-align: right;
@@ -46,13 +46,13 @@ const How = styled.section`
   margin: 100px auto auto auto;
 
   h2 {
-    font-size: 28px;
+    font-size: 1.75rem;
     font-weight: 700;
     line-height: 47.04px;
     text-align: right;
   }
   p {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     line-height: 40.32px;
     text-align: right;
@@ -65,19 +65,19 @@ const Personal = styled.ul`
   margin: 10px auto;
 
   h2 {
-    font-size: 28px;
+    font-size: 1.75rem;
     font-weight: 700;
     line-height: 47.04px;
     text-align: right;
   }
   li {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     line-height: 40.32px;
     text-align: right;
   }
   p {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     line-height: 40.32px;
     text-align: right;
@@ -91,25 +91,25 @@ const Security = styled.div`
   margin: 10px auto 200px auto;
 
   h2 {
-    font-size: 28px;
+    font-size: 1.75rem;
     font-weight: 700;
     line-height: 47.04px;
     text-align: right;
   }
   p {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     line-height: 40.32px;
     text-align: right;
   }
   ul p {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     line-height: 40.32px;
     text-align: right;
   }
   ul li {
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     line-height: 40.32px;
     text-align: right;

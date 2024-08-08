@@ -17,7 +17,7 @@ const Paragraph = styled.div`
   background-image: linear-gradient(90deg, #292929 0%, #333333 100%);
   p {
     font-family: Cairo;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     line-height: 40.32px;
     width: 730px;
@@ -27,7 +27,7 @@ const Paragraph = styled.div`
     color: aliceblue;
   }
   span {
-    margin-top: -22px;
+    margin-top: 20px;
   }
 `;
 

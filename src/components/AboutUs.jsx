@@ -22,7 +22,7 @@ const Intro = styled.div`
   }
   p {
     font-family: Cairo;
-    font-size: 32px;
+    font-size: 2rem;
     font-weight: 600;
     line-height: 53.76px;
     text-align: center;
@@ -78,14 +78,14 @@ const Secure = styled.div`
   }
   h3 {
     font-family: Cairo;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 700;
     line-height: 44.98px;
     text-align: center;
   }
   p {
     font-family: Cairo;
-    font-size: 20px;
+    font-size: 1.25;
     font-weight: 600;
     line-height: 33.6px;
     text-align: center;
@@ -106,14 +106,14 @@ const AllDay = styled.div`
   }
   h3 {
     font-family: Cairo;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 700;
     line-height: 44.98px;
     text-align: center;
   }
   p {
     font-family: Cairo;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 600;
     line-height: 33.6px;
     text-align: center;
@@ -133,14 +133,14 @@ const Payment = styled.div`
   }
   h3 {
     font-family: Cairo;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 700;
     line-height: 44.98px;
     text-align: center;
   }
   p {
     font-family: Cairo;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 600;
     line-height: 33.6px;
     text-align: center;

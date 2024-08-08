@@ -19,7 +19,7 @@ const Catagories = styled.div`
     height: 56px;
     border-radius: 20px;
     font-family: Cairo;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 600;
     line-height: 37.48px;
     text-align: center;
@@ -50,7 +50,7 @@ const CardsSection = styled.div`
   h2 {
     font-family: Cairo;
     direction: rtl;
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: 700;
     line-height: 67.2px;
   }
