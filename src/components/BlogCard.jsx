@@ -45,7 +45,7 @@ const Date = styled.div`
     text-align: left;
     color: #999999;
   }
-  button {
+  a {
     font-family: Cairo;
     font-size: 0.938rem;
     font-weight: 700;
@@ -67,7 +67,7 @@ function BlogCard({ blogObj }) {
         <p>{blogObj.details}</p>
         <Date>
           <span>{blogObj.date}</span>
-          <button>Read more</button>
+          <a href="/products/[blogObj.id]">Read more</a>
         </Date>
       </Section>
     </>
